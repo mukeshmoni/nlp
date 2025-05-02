@@ -1,0 +1,11 @@
+pytesseract 
+pillow 
+pdf2text 
+python-docx 
+opencv-python 
+flask 
+transformers 
+scikit-learn
+ pandas 
+ numpy
+  torch
